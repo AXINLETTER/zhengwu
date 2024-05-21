@@ -1,0 +1,31 @@
+# url = 'https://recept.banshi.beijing.gov.cn/bjzwchatui/bjzw-chatui/index.html'# 北京  ##智能导办  0
+# url = 'https://zwfw.tj.gov.cn/jmaspub/'# 天津  ##天津政务服务智能助理  0
+# url = 'http://www.hbzwfw.gov.cn/ghwd/znwd/index.html'# 河北  ##智能问答小助理  0
+# url = 'https://www.sxzwfw.gov.cn/icity/govservice/robot'# 山西 ##山西省政务服务网”智能机器人 0
+# url = 'https://zwfw.nmg.gov.cn/ics/?robotKey=6XXY2o#/'# 内蒙  ## 智能客服  0
+# url = 'https://zskj.lnzwfw.gov.cn/smzy/ln_qa/tourist/guide/qa'#辽宁省  ##  智能问答机器人-小思  1
+# url = 'http://ai.jl.gov.cn:8509/bot'#吉林省 ##智能小吉 1
+# url = 'https://www.zwfw.hlj.gov.cn/hljznkf/home?areacode=230000000000'#黑龙江省  ##小龙  1
+# url = 'https://zwdt.sh.gov.cn/smzy/qa/tourist/guide/qa?from=zwfw'#上海市  ##小申  1
+# url = 'https://ydzt.jszwfw.gov.cn/api-gateway/jpaas-robot-web-server/index?robotId=a87d1a6730ca4b0293ed04e89903c907&tpl=b1b942f4b8c847fcb84d93e34a1b075d'#江苏省  ##智能问答 0
+# url = 'https://www.zjzwfw.gov.cn/jfaqfront_robot/index.html#/'#浙江省 ##小浙 1
+# url = 'https://static.ahzwfw.gov.cn/ics/#/'#安徽省  ##智能客服 0
+# url = 'https://zwfw.fujian.gov.cn:8023/consult_web/index.html?loginflag=false#/'#福建省  ##福博士 1
+# url = 'https://jxzwfww.gov.cn/jrobotfront-server/index.do?webid=1'#江西省  ##智能问答  0
+# url = 'http://www.shandong.gov.cn/jpaas-robot-web-server/index.do?tpl=9249b8c9d66c4f878b19210c0fc4662a&webid=095047f1675b42bc82f604e562e94044'#山东  ##智能问答  0
+# url = 'https://www.hnzwfw.gov.cn/aisearch/quizbot.html#/'#河南  ##政务助理小豫  1
+# url = 'http://zwfw.hubei.gov.cn/tongban/hb_qa/tourist/guide/qa'#湖北  ##政务服务-小鄂  1
+# url = 'https://zwfw-new.hunan.gov.cn/intelligentAssistant/qa/demo.html?entry=government_service&searchVal='#湖南  ##智能助理  0
+# url = 'https://www.gdzwfw.gov.cn/zhwd/'#广东  ##叻仔  1
+# url = 'https://zwfw.gxzf.gov.cn/ghwd/znwdgxzwfw/index.html?webid=1'#广西  ##智能问答咨询服务  0
+# url = 'https://zwfw-yxm.digitalhainan.com.cn/index-zhengqi.html'#海南  ##智能问答  0
+# url = 'https://www.cq.gov.cn/dhc/ykb/index.html'# 重庆  智能问答  0
+# url = ''#四川  ##没开通
+# url = 'https://zwfw.guizhou.gov.cn/'#贵州  ##小贵  1
+# url = 'https://znwd.ynurl.cn/ghwd/znwdzwfw/index.html'#云南  云小象 1
+# url = 'https://www.xzzwfw.gov.cn/portal/aiRobot.shtml?siteId=1'#西藏  智能机器人  0
+# url = 'https://zwfw.shaanxi.gov.cn/sx/icity/robot/index'#陕西  智能机器人  0
+# url = 'https://zwfw.gansu.gov.cn/gsznkf/home?areacode=620000000000'#甘肃  陇小飞  1
+# url = 'https://www.qhzwfw.gov.cn/znkfrest2_0/robot/robot?siteNo=wechat&areacode=630000'#青海  智能客服  0
+# url = 'https://robot.zwfw.nx.gov.cn:32106/#/?areaCode=640000000000'#宁夏  小宁  1
+# url = 'https://zwfw.xinjiang.gov.cn:9001/epoint-customerservice-rest/robot/robot?siteNo=wechat'#新疆  小疆  1
